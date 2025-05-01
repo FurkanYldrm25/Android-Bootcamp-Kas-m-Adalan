@@ -1,0 +1,7 @@
+tasarım içerisine eklenen görsel nesne dikeyde en az bir ve yatayda en az bir noktaya sabitlenmelidir.
+
+görsel nesnenin genişliğini 0dp(match constraint) olarak ayarlamak gerekir.
+
+wrap_content: Genişliğini veya yüksekliğini kendi yüksekliği kadar yapar.
+match_parent: Genişliği veya yüksekliği cihaz boyutuna göre ayarlar.
+match_constraint: match_parent ile aynıdır. Bu özellikler 0dp ayarını verir.

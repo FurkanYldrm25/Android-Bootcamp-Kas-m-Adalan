@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TasarimCalismasiOdevi</string>
+    <string name="uygulama_giris_cumlesi">İyi Günler Furkan Yıldırım</string>
+    <string name="secenek_1">Hesaplarım</string>
+    <string name="secenek_2">Kredi Kartlarım</string>
+    <string name="sube_yazi">CUMHURİYET/ERZURUM ŞUBESİ</string>
+    <string name="hesap_turu">Vadesiz TL</string>
+    <string name="hesap_no">0000-000000000000</string>
+    <string name="iban_no">TR00 0000 0000 0000 0000 0000 00</string>
+    <string name="bakiye_yazi">Bakiye</string>
+    <string name="bakiye_bilgi">0,00 TL</string>
+    <string name="tum_hesaplarim_buton_yazi">Tüm Hesaplarım</string>
+    <string name="hesap_hareketleri_buton_yazi">Hesap Hareketleri</string>
+
+
+
+
+
+
+
+
+</resources>

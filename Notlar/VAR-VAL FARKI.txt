@@ -1,0 +1,1 @@
+Var tanımlaması yapıldığında içeriği değiştirilebilir esnek bir yapı oluşturulur. Dolayısıyla ram de daha esnek davranmak gerekir. Val tanımlaması yapılırsa değişkenin boyutu sabit ve en başta belirlendiği gibidir. Bu yüzden val tanımlaması daha performanslı çalışır.

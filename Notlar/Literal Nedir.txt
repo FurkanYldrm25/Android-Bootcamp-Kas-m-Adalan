@@ -1,0 +1,2 @@
+Literal değer nedir
+Değişkene atanabilecek sabit bir değere literal değer/sabit değer denir.
